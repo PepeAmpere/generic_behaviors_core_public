@@ -11,7 +11,9 @@ class CfgPatches
 		requiredVersion = 0.10;
 		requiredAddons[] = {
 			vbs2_editor, 
-			vbs2_people
+			vbs2_people,
+			vbs2_plugins_function_library,
+			vbs2_vbs_plugins_standard_behaviors
 		};
 		modules[] =
 		{

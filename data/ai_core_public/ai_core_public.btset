@@ -1,16 +1,9 @@
 {
   "name": "ai_core_public",
-  "trees": [
-    "Base\\Default.bt",
-    "genericRoot.bt"
-  ],
+  "trees": [],
   "initScripts": [
-    "Base\\Base.class.lua",
-    "classes.lua",
-    "cls.lua",
     "draw.lua"
   ],
   "parameters": {},
-  "capabilities": {},
-  "dynamicTargets": []
+  "capabilities": {}
 }
